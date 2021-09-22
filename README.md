@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martin-gte
 - 👀 I’m interested in CFD and neural networks 
 - 🌱 I’m currently learning how to use machine learning and deep learning in Python 
-- 📫 You can reach me through my mail martin.pensado.marino@uvigo.es
+- 📫 You can reach me through my mail martin.pensado@uvigo.es
 
 <!---
 martin-gte/martin-gte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
